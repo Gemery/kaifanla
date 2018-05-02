@@ -5,6 +5,7 @@
       <mapping ext="php" type="PLAIN_TEXT" />
       <mapping ext="text" type="PLAIN_TEXT" />
       <mapping ext="string" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
